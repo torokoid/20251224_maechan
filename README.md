@@ -283,7 +283,7 @@ p.note { display: none; }
 <h2><span class="yellow">買い物終わって出てみると、駐車場は日没後</span></h2>
 <a href="20251224_048.JPG" target="_blank"><img src="20251224_048.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">よく見ると、お空に細い月（司会中心付近）</span></h2>
+<h2><span class="yellow">よく見ると、お空に細い月（画面の中心付近、かなり薄い色）</span></h2>
 <a href="20251224_049.JPG" target="_blank"><img src="20251224_049.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251224_050.JPG" target="_blank"><img src="20251224_050.JPG" alt="サンプル画像" class="responsive-media"></a>
 
@@ -308,7 +308,7 @@ p.note { display: none; }
 <a href="20251224_058.JPG" target="_blank"><img src="20251224_058.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251224_059.JPG" target="_blank"><img src="20251224_059.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">24日の定点観測の木に朝日が差しました</span></h2>
+<h2><span class="yellow">24日の朝、定点観測の木に朝日が差しました</span></h2>
 <a href="20251224_060.JPG" target="_blank"><img src="20251224_060.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 
